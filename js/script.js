@@ -80,11 +80,11 @@ document.addEventListener("DOMContentLoaded", daktiloEfektiCagir);
 
 
 const projeListesi = [
-    { isim: "Mac One Suadiye Renovation", tur: "Spor Salonu", gorsel: "/images/maconesuadiye.png", detay: "A modern and dynamic gym renovation project." },
-    { isim: "Mac Fit Konutkent Renovation", tur: "Spor Salonu", gorsel: "/images/konutkent.png", detay: "User-focused, functional fitness center design." },
-    { isim: "Mac Fit Maltepe Ofispark", tur: "Spor Salonu", gorsel: " /images/maltepe.png", detay: "Innovative sports area within the corporate officepark." },
-    { isim: "Trendyol Tech. Office Ankara", tur: "Ofis", gorsel: "/images/trendyol.png", detay: "An inspiring workspace for the technology team." },
-    { isim: "Unilever Office Renovation", tur: "Ofis", gorsel: "/images/unilever.png", detay: "Sustainable and ergonomic central office renovation." }
+    { isim: "Mac One Suadiye Renovation", tur: "Spor Salonu", gorsel: "images/maconesuadiye.png", detay: "A modern and dynamic gym renovation project." },
+    { isim: "Mac Fit Konutkent Renovation", tur: "Spor Salonu", gorsel: "images/konutkent.png", detay: "User-focused, functional fitness center design." },
+    { isim: "Mac Fit Maltepe Ofispark", tur: "Spor Salonu", gorsel: "images/maltepe.png", detay: "Innovative sports area within the corporate officepark." },
+    { isim: "Trendyol Tech. Office Ankara", tur: "Ofis", gorsel: "images/trendyol.png", detay: "An inspiring workspace for the technology team." },
+    { isim: "Unilever Office Renovation", tur: "Ofis", gorsel: "images/unilever.png", detay: "Sustainable and ergonomic central office renovation." }
 ];
 
 const projeKapsayici = document.getElementById("projeKapsayici");
