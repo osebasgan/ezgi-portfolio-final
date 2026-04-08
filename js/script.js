@@ -47,6 +47,7 @@ document.addEventListener("mousemove", (fareHareketi) => {
 });
 
 
+
 const daktiloHedef = document.getElementById("daktiloMetni");
 const yazilacakMetinler = ["Architect", "Designer", "Creator"];
 let metinSirasi = 0;
